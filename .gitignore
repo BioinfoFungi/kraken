@@ -1,2 +1,10 @@
 db/
 output/
+
+
+src/classify
+src/db_shrink
+src/db_sort
+src/kmer_estimator
+src/krakendb.o
+src/set_lcas

@@ -8,3 +8,8 @@ in the `docs/` directory (`MANUAL.html` and `MANUAL.markdown`).
 
 [Kraken webpage]:   http://ccb.jhu.edu/software/kraken/
 [Kraken manual]:    http://ccb.jhu.edu/software/kraken/MANUAL.html
+
+kraken-build --standard --db db
+
+
+conda create -n jellyfish  --use-local jellyfish-1.1.12-h6bb024c_1.tar.bz2 
